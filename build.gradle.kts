@@ -58,7 +58,7 @@ repositories {
 }
 
 dependencies {
-  compileOnly("com.github.EsotericOrganisation:tss-core-plugin:0.2.1:dev-all")
+  compileOnly("com.github.EsotericOrganisation:tss-core-plugin:0.2.2:dev-all")
   paperweight.paperDevBundle("$paperApiVersion-R0.1-SNAPSHOT")
 
   implementation("dev.jorel" , "commandapi-bukkit-shade-mojang-mapped" , "9.5.1")

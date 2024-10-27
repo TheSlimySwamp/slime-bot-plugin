@@ -3,7 +3,7 @@ package foundation.esoteric.tss.minecraft.plugins.discord.bot.event.listeners;
 import net.dv8tion.jda.api.events.GenericEvent;
 import net.dv8tion.jda.api.events.session.ReadyEvent;
 import net.dv8tion.jda.api.hooks.EventListener;
-import org.esoteric.tss.minecraft.plugins.core.util.LogUtil;
+import foundation.esoteric.tss.minecraft.plugins.core.util.LogUtil;
 import org.jetbrains.annotations.NotNull;
 
 public class ReadyListener implements EventListener {
