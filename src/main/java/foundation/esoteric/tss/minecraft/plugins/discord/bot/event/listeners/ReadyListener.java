@@ -1,4 +1,4 @@
-package org.esoteric.tss.minecraft.plugins.discord.bot.event.listeners;
+package foundation.esoteric.tss.minecraft.plugins.discord.bot.event.listeners;
 
 import net.dv8tion.jda.api.events.GenericEvent;
 import net.dv8tion.jda.api.events.session.ReadyEvent;

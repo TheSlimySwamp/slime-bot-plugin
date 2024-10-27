@@ -1,10 +1,10 @@
-package org.esoteric.tss.minecraft.plugins.discord.bot;
+package foundation.esoteric.tss.minecraft.plugins.discord.bot;
 
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.entities.Activity;
 import org.esoteric.tss.minecraft.plugins.core.util.DebugUtil;
-import org.esoteric.tss.minecraft.plugins.discord.bot.event.listeners.ReadyListener;
+import foundation.esoteric.tss.minecraft.plugins.discord.bot.event.listeners.ReadyListener;
 
 import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.plugin.java.JavaPlugin;
